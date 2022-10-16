@@ -2,7 +2,21 @@
 
 int main ()
 {
-	putchar("Programming is like building a multilingual puzzle/n");
-	return (0);
+	int letter;
+	letter = 'Programming';
+	putchar(letter);
+	letter = 'is';
+	putchar(letter);
+	letter = 'like';
+	putchar(letter);
+	letter = 'building';
+	putchar(letter);
+	letter = 'a';
+	putchar(letter);
+	letter = 'multilingual';
+	puthchar(letter);
+	letter = 'puzzle';
+	putchar(letter);
 	putchar("\n");
+	return (0);
 }
