@@ -3,19 +3,19 @@
 int main ()
 {
 	int letter;
-	letter = 'Programming';
+	letter = "Programming";
 	putchar(letter);
-	letter = 'is';
+	letter = "is";
 	putchar(letter);
-	letter = 'like';
+	letter = "like";
 	putchar(letter);
-	letter = 'building';
+	letter = "building";
 	putchar(letter);
-	letter = 'a';
+	letter = "a";
 	putchar(letter);
-	letter = 'multilingual';
-	puthchar(letter);
-	letter = 'puzzle';
+	letter = "multilingual";
+	putchar(letter);
+	letter = "puzzle";
 	putchar(letter);
 	putchar("\n");
 	return (0);
