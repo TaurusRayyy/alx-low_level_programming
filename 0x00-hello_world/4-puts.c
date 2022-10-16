@@ -3,6 +3,7 @@
 int main ()
 {
 	int letter;
+	getchar();
 	letter = "Programming";
 	putchar(letter);
 	letter = "is";
