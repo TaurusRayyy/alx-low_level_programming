@@ -1,23 +1,21 @@
 #include <stdio.h>
 
-int main ()
+/**
+
+   * main - main entry point of the function
+
+    * void - means is not taking any value
+
+     * main - Prints Programming is like building a multilingual puzzle
+
+      * return - Alway return the value 0 when successful
+
+       */
+
+int main(void)
+
 {
-	int letter;
-	getchar();
-	letter = "Programming";
-	putchar(letter);
-	letter = "is";
-	putchar(letter);
-	letter = "like";
-	putchar(letter);
-	letter = "building";
-	putchar(letter);
-	letter = "a";
-	putchar(letter);
-	letter = "multilingual";
-	putchar(letter);
-	letter = "puzzle";
-	putchar(letter);
-	putchar("\n");
-	return (0);
+
+	        putchar("\"Programming is like building a multilingual puzzle");
+		        return (0);
 }
