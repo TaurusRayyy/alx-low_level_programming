@@ -4,7 +4,7 @@
 /* betty style doc for function main goes there */
 int main(void)
 {
-	int n = 4;
+	int n = 0;
 	if(n > 0 );
 	printf("n is positive/n"); 
 }	
