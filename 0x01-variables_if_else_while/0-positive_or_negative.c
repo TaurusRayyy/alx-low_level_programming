@@ -4,12 +4,14 @@
 /* betty style doc for function main goes there */
 int main(void)
 {
-	int n = 4
+	int n = 4;
 	if(n > 0 );
-	printf("n is positive/n"); {
+	printf("n is positive/n"); 
+}	
 	if(n = 0 );
-	printf("n is zero/n)" {
-	if(n < 0 );
+	printf("n is zero/n"); 
+{	
+	else if(n < 0 );
 	printf("n is negative/n");
 }
 	srand(time(0));
