@@ -2,17 +2,16 @@
 /**
 * print_alphabet - print alphabet
 *
-* Return: Always 0
 */
 void print_alphabet(void);
 {
 	char a;
 
+	int print_alphabet(char a)
+
 	for (a = 'a'; a <= 'z'; a++)
-	{	_putchar(a);
-
-		_putchar('\n');
+	{
+		_putchar(a);
 	}
-
-	return (0);
+		_putchar('\n');
 }
