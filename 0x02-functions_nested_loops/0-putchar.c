@@ -1,5 +1,7 @@
 #include <stdio.h>
-/** main - Entry
+#include <main.h>
+/**
+* main - Entry
 * Return: Always 0
 */
 int main(void)
