@@ -1,12 +1,13 @@
 #include "main.h"
 /**
 *isalpha - Entry point
+*@c: the integer value it receives
 *Description: Checks for alphabetical order
 *Return: 1 if true. 0 if false
 */
-
 int _isalpha(int c)
 {
+
 	if (c >= 'a' && c <= 'z')
 	{
 	return (1);
@@ -19,4 +20,5 @@ int _isalpha(int c)
 	{
 	return (0);
 	}
+	
 }
