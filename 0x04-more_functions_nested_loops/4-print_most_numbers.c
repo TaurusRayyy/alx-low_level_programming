@@ -6,7 +6,6 @@
 * Return: 0
 */
 void print_most_numbers(void)
-int _putchar(char c)
 {
 	char c;
 
@@ -16,5 +15,5 @@ int _putchar(char c)
 
 			_putchar(c);
 	}
-		_putchar('\n');}
-
+		_putchar('\n');
+}
