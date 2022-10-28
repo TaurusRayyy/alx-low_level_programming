@@ -3,7 +3,7 @@
 /**
 * _strncat - Concatenates two strings
 * @dest: the string to be appended upon
-* @scr: the string to be appended upon
+* @src: the string to be appended upon
 * @n: the number of bytes from src
 *
 * Return: a ponter to the string dest.
